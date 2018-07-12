@@ -1,0 +1,34 @@
+body
+{
+	font-family: Georgia;
+	font-size: 12px;
+}
+
+button
+{
+	outline: none;
+	border: none;
+}
+
+a 
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover
+{
+	text-decoration: none;
+	color: Grey;
+}
+
+h4
+{
+	font-family: Georgia;
+	font-size: 15px;
+}
+
+
+
+
+

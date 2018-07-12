@@ -1,0 +1,337 @@
+[05-Nov-2017 01:42:23 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:42:23 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:42:30 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:42:30 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:44:01 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[05-Nov-2017 01:44:01 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[05-Nov-2017 01:44:03 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[05-Nov-2017 01:44:03 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[05-Nov-2017 01:44:03 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[05-Nov-2017 01:47:05 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:47:05 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:51:24 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:51:24 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:56:22 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:56:22 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 01:58:10 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[05-Nov-2017 01:58:10 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[05-Nov-2017 02:42:51 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:42:51 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:45:05 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:45:05 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:54:02 UTC] PHP Warning:  require(..\fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:54:02 UTC] PHP Fatal error:  require(): Failed opening required '..\fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:54:13 UTC] PHP Warning:  require(..\fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:54:13 UTC] PHP Fatal error:  require(): Failed opening required '..\fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:55:13 UTC] PHP Warning:  require(../fpdf/fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:55:13 UTC] PHP Fatal error:  require(): Failed opening required '../fpdf/fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:57:25 UTC] PHP Warning:  require(../fpdf/fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:57:25 UTC] PHP Fatal error:  require(): Failed opening required '../fpdf/fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:57:31 UTC] PHP Warning:  require(../fpdf/fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 02:57:31 UTC] PHP Fatal error:  require(): Failed opening required '../fpdf/fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Customer.php on line 2
+[05-Nov-2017 03:08:45 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[05-Nov-2017 03:08:45 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[05-Nov-2017 03:36:49 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[05-Nov-2017 03:36:49 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[05-Nov-2017 03:36:58 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[05-Nov-2017 03:36:58 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[05-Nov-2017 03:38:35 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[05-Nov-2017 03:38:35 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/invoice_1.php on line 2
+[06-Nov-2017 13:42:36 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[06-Nov-2017 13:42:36 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[06-Nov-2017 19:49:49 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[06-Nov-2017 19:49:49 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[06-Nov-2017 19:49:51 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[06-Nov-2017 19:49:51 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Product.php on line 2
+[07-Nov-2017 01:22:13 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:22:13 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:22:32 UTC] PHP Warning:  require(fpdf\fpdf.php): failed to open stream: No such file or directory in /home/sonynscaria/public_html/C1/Export_PDF_Payment.php on line 2
+[07-Nov-2017 01:22:32 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf\fpdf.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sonynscaria/public_html/C1/Export_PDF_Payment.php on line 2
+[07-Nov-2017 01:24:19 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:24:19 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:30:14 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:30:14 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:30:16 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 01:30:16 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 01:30:16 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 01:30:36 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:30:36 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:31:07 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:31:07 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:32:10 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:32:10 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:52:54 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:52:54 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:52:58 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:52:58 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:52:59 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 01:52:59 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 01:52:59 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 01:53:09 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:53:09 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 01:53:17 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 01:53:17 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:00:33 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:00:33 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:00:34 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:00:34 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:00:34 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:00:55 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:00:55 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:02:42 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:02:42 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:02:43 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:02:43 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:02:43 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:02:55 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:02:55 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:03:12 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:03:12 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:03:17 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:03:17 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:03:20 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:03:20 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:03:22 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:03:22 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:05:55 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:05:55 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:05:56 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:05:56 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:05:56 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:06:06 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:06:06 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:06:56 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:06:56 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:07:00 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:07:00 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:07:00 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:07:00 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:07:00 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:09:29 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:09:29 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:09:29 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:09:31 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:09:31 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:09:31 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:09:58 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:09:58 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:09:58 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:09:59 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:09:59 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:09:59 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:11:18 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:11:18 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:11:18 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:11:19 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:11:19 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:11:44 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:11:44 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:11:47 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:11:47 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:11:51 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:11:51 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:11:53 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:11:53 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:12:51 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:12:51 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 02:12:53 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[07-Nov-2017 02:12:53 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[07-Nov-2017 02:12:53 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[07-Nov-2017 02:13:06 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 02:13:06 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 03:19:00 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 03:19:00 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 03:19:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 03:19:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 03:19:10 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 03:19:10 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[07-Nov-2017 03:19:13 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[07-Nov-2017 03:19:13 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:17:14 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:17:14 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:17:19 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:17:19 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:18:38 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:18:38 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:18:39 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[08-Nov-2017 00:18:39 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[08-Nov-2017 00:18:39 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[08-Nov-2017 00:18:50 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:18:50 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:19:01 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:19:01 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:19:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:19:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:22:47 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:22:47 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:27:41 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[08-Nov-2017 00:27:41 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[08-Nov-2017 00:27:41 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[08-Nov-2017 00:28:01 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[08-Nov-2017 00:28:01 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[08-Nov-2017 00:28:01 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[08-Nov-2017 00:58:25 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:58:25 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 00:58:27 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[08-Nov-2017 00:58:27 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[08-Nov-2017 00:58:27 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[08-Nov-2017 00:58:45 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 00:58:45 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 01:03:43 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 01:03:43 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 01:41:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 01:41:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 01:42:45 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 01:42:45 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 01:42:51 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[08-Nov-2017 01:42:51 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[08-Nov-2017 01:42:51 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[08-Nov-2017 01:46:41 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 01:46:41 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 01:50:13 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 01:50:13 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 01:59:35 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 01:59:35 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 01:59:38 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 01:59:38 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:00:09 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:00:09 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:00:15 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:00:15 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:09:36 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:09:36 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:09:38 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:09:38 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:43:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:43:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:43:53 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[08-Nov-2017 02:43:53 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[08-Nov-2017 02:43:53 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[08-Nov-2017 02:44:06 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:44:06 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:49:23 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:49:23 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:49:29 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:49:29 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:49:31 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[08-Nov-2017 02:49:31 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[08-Nov-2017 02:49:31 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[08-Nov-2017 02:49:42 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:49:42 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:51:09 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:51:09 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:51:12 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:51:12 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:51:15 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:51:15 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:51:18 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:51:18 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:55:59 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:55:59 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:57:32 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 02:57:32 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 02:57:43 UTC] PHP Notice:  Undefined index: OID in /home/sonynscaria/public_html/C1/Item_Details.php on line 9
+[08-Nov-2017 02:57:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sonynscaria/public_html/C1/Item_Details.php on line 14
+[08-Nov-2017 02:57:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sonynscaria/public_html/C1/Item_Details.php on line 107
+[08-Nov-2017 03:00:00 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 03:00:00 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 15:37:05 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 15:37:05 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[08-Nov-2017 20:05:05 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[08-Nov-2017 20:05:05 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Nov-2017 01:18:24 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Nov-2017 01:18:24 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Nov-2017 01:18:26 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[09-Nov-2017 01:18:26 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[09-Nov-2017 01:18:26 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[09-Nov-2017 01:18:36 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Nov-2017 01:18:36 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Nov-2017 01:18:50 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Nov-2017 01:18:50 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Nov-2017 01:18:54 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Nov-2017 01:18:54 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Nov-2017 01:19:40 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Nov-2017 01:19:40 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Nov-2017 07:25:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Nov-2017 07:25:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Nov-2017 18:04:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Nov-2017 18:04:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[10-Nov-2017 21:20:44 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[10-Nov-2017 21:20:44 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[12-Nov-2017 00:11:59 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[12-Nov-2017 00:11:59 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[12-Nov-2017 00:11:59 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[14-Nov-2017 01:46:05 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[14-Nov-2017 01:46:05 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[15-Nov-2017 21:53:54 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[15-Nov-2017 21:53:54 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[18-Nov-2017 03:52:02 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[18-Nov-2017 03:52:02 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[18-Nov-2017 03:52:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[18-Nov-2017 03:52:04 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[25-Dec-2017 22:28:44 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[25-Dec-2017 22:28:44 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[25-Dec-2017 22:28:47 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[25-Dec-2017 22:28:47 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[25-Dec-2017 22:28:47 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[09-Jan-2018 21:49:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Jan-2018 21:49:48 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[09-Jan-2018 21:49:54 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[09-Jan-2018 21:49:54 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[09-Jan-2018 21:49:54 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[09-Jan-2018 21:50:32 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 218
+[09-Jan-2018 21:50:32 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 250
+[09-Jan-2018 21:50:32 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 269
+[09-Jan-2018 23:03:45 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 123
+[09-Jan-2018 23:03:45 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 129
+[20-Jan-2018 23:35:10 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[20-Jan-2018 23:37:04 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[20-Jan-2018 23:37:41 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[20-Jan-2018 23:37:41 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
+[20-Jan-2018 23:37:42 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Order_Add.php on line 221
+[20-Jan-2018 23:37:42 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 253
+[20-Jan-2018 23:37:42 UTC] PHP Notice:  Undefined variable: x in /home/sonynscaria/public_html/C1/Order_Add.php on line 272
+[20-Jan-2018 23:37:53 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[20-Jan-2018 23:37:53 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
+[20-Jan-2018 23:38:41 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[20-Jan-2018 23:38:41 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
+[20-Jan-2018 23:39:04 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[20-Jan-2018 23:48:35 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[21-Jan-2018 00:39:11 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[21-Jan-2018 01:18:51 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[21-Jan-2018 01:19:40 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[22-Jan-2018 20:19:03 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[22-Jan-2018 20:55:42 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[22-Jan-2018 20:55:42 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
+[23-Jan-2018 00:08:46 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[23-Jan-2018 00:08:53 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[23-Jan-2018 00:08:56 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[23-Jan-2018 00:09:02 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[23-Jan-2018 00:09:14 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[23-Jan-2018 00:09:21 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[23-Jan-2018 00:09:30 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[26-Jan-2018 20:37:09 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[26-Jan-2018 20:37:13 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 16:37:44 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 16:38:09 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 16:38:21 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 16:38:29 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 16:38:44 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 16:38:50 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 21:59:07 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 21:59:27 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 21:59:46 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 21:59:58 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[28-Jan-2018 21:59:58 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
+[28-Jan-2018 22:01:16 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[28-Jan-2018 22:01:25 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[29-Jan-2018 18:46:04 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[29-Jan-2018 18:46:09 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[29-Jan-2018 18:46:20 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[29-Jan-2018 18:46:20 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
+[29-Jan-2018 18:47:30 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[29-Jan-2018 18:48:00 UTC] PHP Notice:  Undefined variable: counter in /home/sonynscaria/public_html/C1/Configuration.php on line 57
+[02-Feb-2018 21:26:33 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[02-Feb-2018 21:26:33 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
+[02-Feb-2018 21:26:53 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 126
+[02-Feb-2018 21:26:53 UTC] PHP Notice:  Undefined index: country in /home/sonynscaria/public_html/C1/Order.php on line 132
